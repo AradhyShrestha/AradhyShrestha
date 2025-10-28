@@ -34,9 +34,12 @@
 
 ---
 
-### 💬 What I’m Up To
+### 💬 What I’m Up To  
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%2B+Tailwind+Fanboy;AI+Experimenter;Building+Linkly+🚀;Turning+Ideas+into+Reality+💡" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%2B+Tailwind+Fanboy;AI+Experimenter;Building+Linkly+🚀;Turning+Ideas+into+Reality+💡" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
