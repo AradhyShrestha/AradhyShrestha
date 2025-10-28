@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/S2svl8z.gif" alt="Aradhy Banner" width="100%" />
+  <img src="[https://i.imgur.com/S2svl8z.gif](https://github.com/AradhyShrestha/AradhyShrestha/blob/main/banner.png)" alt="Aradhy Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey 👋, I'm <span style="color:#8b5cf6;">Aradhy Shrestha</span></h1>
