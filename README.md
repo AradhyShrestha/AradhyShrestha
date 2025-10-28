@@ -25,6 +25,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AradhyShrestha&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AradhyShrestha&theme=tokyonight" height="165"/>
+  <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
 ---
@@ -46,4 +47,6 @@
 
 <p align="center">
   <i>“Turning ideas into beautiful, functional web experiences.”</i>
+  ![Profile views](https://komarev.com/ghpvc/?username=AradhyShrestha&color=blueviolet)
 </p>
+
