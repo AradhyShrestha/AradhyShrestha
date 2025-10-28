@@ -47,9 +47,7 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | 🔗 **Linkly** | URL shortener with analytics and branded links | Next.js, MongoDB, Tailwind |
-| 💬 **DevChat AI** | ChatGPT-like assistant built with OpenAI API | Next.js, OpenAI |
-| 🎨 **Portfolio Website** | Animated and responsive developer portfolio | Next.js, Framer Motion |
-
+| 💬 **Aradhy's Blog** | AI assited blog  | Next.js, OpenAI |
 ---
 
 ### 🌐 Connect with Me  
